@@ -1,4 +1,4 @@
-# Planet Express, Public OpenAPI Specification
+# PlanetExpress, Public API OpenAPI Specification
 [![Build Status](https://travis-ci.org/webwingscz/pexapi.svg?branch=master)](https://travis-ci.org/webwingscz/pexapi)
 
 ## Steps to finish

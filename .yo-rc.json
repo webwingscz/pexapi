@@ -1,10 +1,11 @@
 {
   "generator-openapi-repo": {
-    "importExistingSpec": false,
-    "name": "Planet Express, Public",
+    "importExistingSpec": true,
+    "importedSpec": "c:\\web\\planetexpress\\docs\\api\\planetapi_v1.json",
+    "name": "PlanetExpress, Public API",
     "repo": "webwingscz/pexapi",
     "splitSpec": false,
-    "samples": true,
+    "samples": false,
     "installSwaggerUI": true
   }
 }
